@@ -4,7 +4,7 @@ defMon Sync Adapter is an adapter for the Commodore 64 computer. It is used to s
 -midi clock.
 -din sync.
 -clock signal with adjustable resolution from 24ppqn to 2ppqn for Korg Volcas, TE Pocket Operators, Arturia Microbrute, MI Anushri etc.
-It can only work as master.
+It can only work as the master.
 It should also work with Prophet64.
 
 Original developer: Krzysztof Iwanowski
